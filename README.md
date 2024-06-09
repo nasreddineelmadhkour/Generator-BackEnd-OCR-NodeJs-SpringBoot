@@ -1,4 +1,4 @@
-# Flask Project for Generating Spring Boot or Node.js Projects from Image Diagrams
+# Flask Project for Generating Spring Boot or Node.js Projects from Image Diagrams 
 
 This Flask-based web application allows users to upload an image diagram and generates a complete project structure in either Spring Boot or Node.js based on the input image.
 
